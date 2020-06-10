@@ -1,0 +1,2 @@
+D:\SupersLWF\ASupersLClassLibrary\SupersLIUnknown\Debug\SupersLIUnknown.dll
+D:\SupersLWF\ASupersLClassLibrary\SupersLIUnknown\Debug\SupersLIUnknown.pdb
